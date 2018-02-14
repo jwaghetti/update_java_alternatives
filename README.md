@@ -1,5 +1,8 @@
 # update_java_alternatives
+
 Updates Java alternatives on Ubuntu for manually installed Java.
+
+Official Public Repository: https://gitlab.com/jwaghetti/update_java_alternatives.
 
 ## How To Use
 
